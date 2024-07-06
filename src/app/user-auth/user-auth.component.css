@@ -1,0 +1,14 @@
+.user-auth a{
+    cursor:pointer;
+    color:blueviolet;
+}
+
+.user-auth button{
+    margin-bottom:20px;
+}
+.common-form .error-msg {
+    text-align:left;
+    margin-top:0px;
+    font-size:15px;
+    color:red;
+}

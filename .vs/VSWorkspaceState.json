@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\cart-page",
+    "\\src\\app\\checkout",
+    "\\src\\app\\header",
+    "\\src\\app\\my-order",
+    "\\src\\app\\product-details",
+    "\\src\\app\\services",
+    "\\src\\app\\user-auth"
+  ],
+  "PreviewInSolutionExplorer": false
+}

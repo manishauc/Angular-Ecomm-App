@@ -1,0 +1,16 @@
+.cancel-order-btn
+{
+    background-color:blueviolet;
+    color:white;
+}
+
+.order-now{
+    width:80%;
+
+}
+.order .row{
+
+    margin-top:30px;
+    margin-bottom:30px;
+    border-bottom:1px solid #ddd;
+}

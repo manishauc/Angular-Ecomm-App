@@ -1,0 +1,72 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.common-form {
+  text-align: center;
+  display: flex;
+  margin: auto;
+  flex-direction: column;
+  width: 350px;
+}
+
+.form-input {
+  height: 35px;
+  border: 1px solid blueviolet;
+  color: blueviolet;
+  /* margin-bottom: 20px; */
+  padding-left: 10px;
+}
+
+.form-button {
+  height: 35px;
+  background-color: blueviolet;
+  color: white;
+  border: px solid white;
+  cursor: pointer;
+}
+.error-p{
+    color:red;
+    text-align:center;
+}
+
+.success-p {
+  color: green;
+  text-align: center;
+}
+
+.add-product-div h1{
+    color:blueviolet;
+    text-align:center;
+}
+
+.carousel-caption {
+  background-color: #00000082;
+  border-radius: 5px;
+}
+
+
+.carousel-control-next-icon {
+  color: #00000082;
+  background-color: #00000082;
+}
+
+.carousel-control-prev-icon {
+  color: #00000082;
+  background-color: #00000082;
+}
+
+.visually-hidden {
+  color: #00000082;
+}
+
+button:disabled{
+    cursor:not-allowed;
+}

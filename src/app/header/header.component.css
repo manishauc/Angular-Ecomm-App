@@ -1,0 +1,76 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.active {
+  font-weight: bold; /* Example: Changing font weight for active link */
+  /* Add other styles to highlight the active link */
+}
+.suggested-result {
+  position: absolute;
+  display: list-item !important;
+  margin-top: 39px !important;
+  z-index: 10;
+  background-color: white;
+  width: 401px;
+  border: 1px solid #ddd;
+}
+
+.suggested-result li{
+  border: 1px solid #ddd;
+  padding-bottom:12px;
+}
+
+
+.nav h1 {
+  color: blueviolet;
+  margin-top: 0;
+  font-size: 50px;
+}
+
+.nav ul {
+  display: inline-flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+  .nav ul li {
+    padding-left: 15px;
+    padding-top: 15px;
+  }
+
+    .nav ul li a {
+      text-decoration: none;
+      color: blueviolet;
+      cursor:pointer;
+    }
+
+.nav .nav-search {
+  margin-top: 5px;
+  flex: 1;
+  display: flex;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+  .nav .nav-search input {
+    flex: 1;
+    color: blueviolet;
+    border: 1px solid blueviolet;
+    height: 39px;
+    border-right: 0px;
+  }
+
+
+  .nav .nav-search button {
+    color: blueviolet;
+    border: 1px solid blueviolet;
+    height: 39px;
+    border-left: 0px;
+  }
+  h1 a{
+      color:blueviolet;
+      text-decoration:none;
+  }

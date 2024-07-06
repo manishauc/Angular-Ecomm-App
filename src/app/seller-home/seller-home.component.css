@@ -1,0 +1,28 @@
+  .product-item{
+      border:1px solid blueviolet;
+      width:150px;
+      justify-content:inherit;
+    
+  }
+  .product-item img {
+    max-height: 150px;
+  }
+.product-list table {
+  border-collapse: collapse;
+  border: 1px solid blueviolet;
+}
+  .product-list table th {
+    border: 1px solid blueviolet;
+    padding:10px;
+   
+  }
+  .product-list table tr td {
+    border: 1px solid blueviolet;
+    border-collapse: collapse;
+    padding: 10px;
+    width:120px;
+  }
+  .product-list table img {
+      height:80px;
+      width:80px;
+  }

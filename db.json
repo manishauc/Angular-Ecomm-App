@@ -1,0 +1,244 @@
+{
+  "seller": [
+    {
+      "name": "Manisha",
+      "password": "123",
+      "email": "manisha@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "pradeep",
+      "password": "123",
+      "email": "pradeep@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Pallavi",
+      "password": "123",
+      "email": "pallavi@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "rani",
+      "password": "123",
+      "email": "rani@gmail.com",
+      "id": 4
+    }
+  ],
+  "product": [
+    {
+      "name": "MI A2",
+      "price": "20000",
+      "category": "Mobile",
+      "color": "Red",
+      "description": "Nice product",
+      "image": "https://cdn.pixabay.com/photo/2016/12/09/11/33/smartphone-1894723_1280.jpg",
+      "id": 1
+    },
+    {
+      "name": "Charger",
+      "price": "150",
+      "category": "charger",
+      "color": "black",
+      "description": "test",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/battery-charger/4/s/e/-original-imaghrf2c5cv4dwf.jpeg?q=70",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Smart Watch",
+      "price": "29991",
+      "category": "Smart Watch1",
+      "color": "black1",
+      "description": "Package Contains: 1 device, 1 charging cable, 1 user manual, warranty card",
+      "image": "https://www.gonoise.com/cdn/shop/files/1.0-min_d91a41c6-5006-4b63-a467-b8955a12b987.png?v=1703582364"
+    },
+    {
+      "id": 4,
+      "name": "Shoulder Bag",
+      "price": "1216",
+      "category": "Bag",
+      "color": "Cream",
+      "description": "Age Range Description: Adult; Strap Type: Shoulder Strap; Material Type: Jute; Water Resistance Level: Water Resistant; Color Name: Cream; Closure Type: Zipper",
+      "image": "https://m.media-amazon.com/images/I/71xV475T1jL._SL1100_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Rosewood Guitar",
+      "price": "7400",
+      "category": "Guitar",
+      "color": "Natural",
+      "description": "Gloss Top, String Material: Stainless Steel,Side/Back: Matt,Fingerboard-Radius,40.5-inch,guitar",
+      "image": "https://m.media-amazon.com/images/I/71RkY055j7L._SL1500_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Foldable Laptop Table",
+      "price": "598",
+      "category": "Table",
+      "color": "Black",
+      "description": "Callas Multipurpose Foldable Laptop Table with Cup Holder | Drawer | Mac Holder | Study Table, Breakfast Table, Foldable and Portable/Ergonomic & Rounded Edges/Non-Slip Legs (WA-27-Black) | Metal",
+      "image": "https://m.media-amazon.com/images/I/61GQUtqKIpS._SX679_.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Sparx Mens Shoe",
+      "price": "699",
+      "category": "Shoes",
+      "color": "T.Blueg.Yellow",
+      "description": "Sparx is all about passion, challenges and zeal of people who like to live on-the-edge, have a dare-devil spirit and do things differently. Checkout our exciting range of shoes, sandals & flip-flops.",
+      "image": "https://m.media-amazon.com/images/I/71u2XOFXAIL._SL1500_.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Elephant Soft Toy",
+      "price": "700",
+      "category": "Toys",
+      "color": "Pink",
+      "description": "DearJoy Big Fibre Filled Baby Pillow and Stuffed Animal Elephant Soft Toy of Plush Hugging Pillow Material for Kids Boy/Girl as Birthday Gift (60 cm, Pink)Polyester",
+      "image": "https://m.media-amazon.com/images/I/71X04J9E6CL._SX679_.jpg"
+    }
+  ],
+  "users": [
+    {
+      "name": "sdfsf",
+      "email": "sdfsdf",
+      "password": "dfsd",
+      "id": 1
+    },
+    {
+      "name": "Manisha",
+      "email": "manisha@user.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "test",
+      "email": "test@user.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "pradeep",
+      "email": "pradeep@user.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "name": "testing ",
+      "email": "testing@user.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "name": "rupali",
+      "email": "rupali@user.com",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "name": "Adam",
+      "email": "adam@user.com",
+      "password": "123",
+      "id": 7
+    },
+    {
+      "name": "Monika",
+      "email": "monika@user.com",
+      "password": "123",
+      "id": 8
+    },
+    {
+      "name": "rohini",
+      "email": "rohini@user.com",
+      "password": "123",
+      "id": 9
+    },
+    {
+      "name": "Ranjana",
+      "email": "ranjana@user.com",
+      "password": "123",
+      "id": 10
+    }
+  ],
+  "cart": [
+    {
+      "name": "Foldable Laptop Table",
+      "price": "598",
+      "category": "Table",
+      "color": "Black",
+      "description": "Callas Multipurpose Foldable Laptop Table with Cup Holder | Drawer | Mac Holder | Study Table, Breakfast Table, Foldable and Portable/Ergonomic & Rounded Edges/Non-Slip Legs (WA-27-Black) | Metal",
+      "image": "https://m.media-amazon.com/images/I/61GQUtqKIpS._SX679_.jpg",
+      "quantity": 1,
+      "productId": 6,
+      "userId": 10,
+      "id": 2
+    },
+    {
+      "name": "Rosewood Guitar",
+      "price": "7400",
+      "category": "Guitar",
+      "color": "Natural",
+      "description": "Gloss Top, String Material: Stainless Steel,Side/Back: Matt,Fingerboard-Radius,40.5-inch,guitar",
+      "image": "https://m.media-amazon.com/images/I/71RkY055j7L._SL1500_.jpg",
+      "quantity": 1,
+      "productId": 5,
+      "userId": 10,
+      "id": 5
+    },
+    {
+      "name": "Shoulder Bag",
+      "price": "1216",
+      "category": "Bag",
+      "color": "Cream",
+      "description": "Age Range Description: Adult; Strap Type: Shoulder Strap; Material Type: Jute; Water Resistance Level: Water Resistant; Color Name: Cream; Closure Type: Zipper",
+      "image": "https://m.media-amazon.com/images/I/71xV475T1jL._SL1100_.jpg",
+      "quantity": 1,
+      "productId": 4,
+      "userId": 10,
+      "id": 6
+    }
+  ],
+  "orders": [
+    {
+      "email": "pradeep@gmail.com",
+      "address": "Sanbhajinagar",
+      "contact": "1234123412",
+      "totalPrice": 1498,
+      "userId": 4,
+      "id": 1
+    },
+    {
+      "email": "pradeep@user.com",
+      "address": "Sanbhajinagar",
+      "contact": "1234123412",
+      "totalPrice": 35137,
+      "userId": 4,
+      "id": 2
+    },
+    {
+      "email": "ranjana@user.com",
+      "address": "Sanbhajinagar",
+      "contact": "1234123412",
+      "totalPrice": 35137,
+      "userId": 4,
+      "id": 4
+    },
+    {
+      "email": "pradeep@user.com",
+      "address": "Sanbhajinagar",
+      "contact": "1234123412",
+      "totalPrice": 35137,
+      "userId": 4,
+      "id": 6
+    },
+    {
+      "email": "pradeep@user.com",
+      "address": "Sanbhajinagar",
+      "contact": "1234123412",
+      "totalPrice": 8900,
+      "userId": 4,
+      "id": 8
+    }
+  ]
+}
